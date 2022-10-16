@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/emadhamad171/web-node#readme",
   "devDependencies": {
+    "@types/node": "^18.11.0",
     "@typescript-eslint/eslint-plugin": "^5.40.0",
     "eslint": "^8.25.0",
     "eslint-config-prettier": "^8.5.0",
