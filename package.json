@@ -37,7 +37,7 @@
         "typescript": "^4.8.4"
     },
     "lint-staged": {
-        "*.js": "npm run lint:fix",
-        "*.{js,css,md}": "npm run format:write"
+        "*.ts": "npm run lint:fix",
+        "*.{ts,css,md}": "npm run format:write"
     }
 }
