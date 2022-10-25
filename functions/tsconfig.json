@@ -6,11 +6,9 @@
     "outDir": "lib",
     "sourceMap": true,
     "strict": true,
-    "moduleResolution": "NodeNext",                       /* Specify how TypeScript looks up a file from a given module specifier. */
+    "moduleResolution": "NodeNext" /* Specify how TypeScript looks up a file from a given module specifier. */,
     "target": "es2017"
   },
   "compileOnSave": true,
-  "include": [
-    "src", "../.eslintrc.json"
-  ]
+  "include": ["src", "../.eslintrc.json"]
 }
